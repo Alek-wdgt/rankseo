@@ -1,0 +1,16 @@
+{
+  "name": "rankseo",
+  "version": "1.0.0",
+  "description": "React Wordpress Plugin Homepage Widget and stats cpt",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "Alek Vojinovic",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/scripts": "^27.2.6",
+    "recharts": "^2.12.7"
+  }
+}

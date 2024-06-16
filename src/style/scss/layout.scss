@@ -1,0 +1,14 @@
+// .postbox-container{
+//  width: 100% !important;
+//}
+
+/* Select .postbox-container that contains #rankseo_dashboard_widget */
+.postbox-container:has(#rankseo_dashboard_widget) {
+  width: 100% !important;
+}
+
+
+
+  .postbox-container:not(:has(#rankseo_dashboard_widget)) {
+    width: 33%;
+  }

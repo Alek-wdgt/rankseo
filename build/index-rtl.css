@@ -1,0 +1,1 @@
+.postbox-container:has(#rankseo_dashboard_widget){width:100%!important}.postbox-container:not(:has(#rankseo_dashboard_widget)){width:33%}.widget--container{flex-wrap:wrap}.widget--container__header{display:flex;width:100%}.widget--container__title{flex:auto;padding:0 1.25rem}.widget--container__dates{margin:auto 0}.widget--container__dates label{padding:0 .5rem}

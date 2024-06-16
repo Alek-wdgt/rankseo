@@ -1,0 +1,22 @@
+.widget{
+  &--container{
+
+    flex-wrap: wrap;
+
+    &__header{
+      width: 100%;
+      display: flex;
+    }
+    &__title{
+      padding: 0 1.25rem;;
+      flex: auto;
+    }
+    &__dates{
+      margin: auto 0;
+      label{
+        padding: 0 0.5rem;
+      }
+
+    }
+  }
+}
